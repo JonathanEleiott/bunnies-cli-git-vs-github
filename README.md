@@ -27,4 +27,16 @@
   - git add [file names] - move files/folders to the staging area
   - git commit -> takes everything from the staging area and makes it permanent
     - -m "message" -> shortcut for witing a message on your commit
-  - git branch -b [name of the branch] - make a new branch
+  - git checkout -b [name of the branch] - make a new branch and moves to that new branch
+  - git remote -> connection to another location
+    - add -> add connection
+    - nickname -> name of the connection (most commonly origin)
+    - location -> where is the actual connection
+  - git push -> send your code somewhere
+    - nickname -> nickname you gave the remote connection
+    - branch name -> which branch you want to push
+  
+- 3 stages
+  - working directory (red)
+  - staging area (green)
+  - project
