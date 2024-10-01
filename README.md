@@ -26,3 +26,4 @@
   - git status - shows what has been added/changed/deleted since the last commit
   - git add [file names] - move files/folders to the staging area
   - git commit -> takes everything from the staging area and makes it permanent
+    - -m "message" -> shortcut for witing a message on your commit
