@@ -27,3 +27,4 @@
   - git add [file names] - move files/folders to the staging area
   - git commit -> takes everything from the staging area and makes it permanent
     - -m "message" -> shortcut for witing a message on your commit
+  - git branch -b [name of the branch] - make a new branch
